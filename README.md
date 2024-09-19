@@ -53,11 +53,13 @@ La segunda página del informe se centra en los indicadores de salud de la **mor
 ## Capturas de Pantalla
 
 ### Página 1: Análisis de Población
-![Analisis-Población](https://github.com/user-attachments/assets/00f2d365-61ba-439f-a69f-d3dc39e6e1e2)
+![Analisis-Población](https://github.com/user-attachments/assets/fb61e1bc-7715-42f8-b2a0-1fbacaa13dbd)
+
 
 
 ### Página 2: Mortalidad Infantil y Esperanza de Vida
-![Mortalidad_Esperanza](https://github.com/user-attachments/assets/2e4bd1f7-11b0-4a5f-8cb5-6f48842f99d2)
+
+![Mortalidad_Esperanza](https://github.com/user-attachments/assets/1fa371f6-4f56-4a6b-9f4b-faa5316c9f6e)
 
 
 ## Datos
